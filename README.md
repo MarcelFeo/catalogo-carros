@@ -1,7 +1,14 @@
-# Catalogo-carros
+<h1 align="center">
+Página de catálogo para carros
+</h1>
 
-Uma página de carros feito no curso de html, css da DevSuperior
+## Techs
+
+- [x] Javascript
+- [x] HTML5, CSS3
 
 ![Foto da página](Catalogo.png)
+
+## Link para o projeto:
 
 Link: https://marcelfeo.github.io/Catalogo-carros/
